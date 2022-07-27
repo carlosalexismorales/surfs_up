@@ -39,6 +39,9 @@ In the image below, we see the code that was written in order to retrieve the we
 
 
 In the image below, we see the output as a result of the code above.
+
+
+
 <img width="141" alt="Screen Shot 2022-07-26 at 7 40 36 PM" src="https://user-images.githubusercontent.com/102444078/181148997-39ee8c8d-f1ff-43fa-85ab-daf14f2dbbfc.png">
 
 
