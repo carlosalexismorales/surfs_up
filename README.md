@@ -26,11 +26,37 @@ This assignment consists of two technical analysis deliverables and a written re
 
 Weather in June:
 
+In the image below, we see the code that was written in order to retrieve the weather stats. Dependencies were imported and functions were created to connection to the SQLite database. 
+
+<img width="1119" alt="Screen Shot 2022-07-26 at 7 40 11 PM" src="https://user-images.githubusercontent.com/102444078/181148962-f2268c4e-2bce-468d-9e2e-df54625e8971.png">
+
+In the image below, we see the output as a result of the code above.
+<img width="141" alt="Screen Shot 2022-07-26 at 7 40 36 PM" src="https://user-images.githubusercontent.com/102444078/181148997-39ee8c8d-f1ff-43fa-85ab-daf14f2dbbfc.png">
+
+
 
 
 Weather in December:
+
+In the image below, we see the code that was written in order to retrieve the weather stats. Dependencies were imported and functions were created to connection to the SQLite database.
+
+<img width="1141" alt="Screen Shot 2022-07-26 at 7 44 12 PM" src="https://user-images.githubusercontent.com/102444078/181149443-355b71c7-a796-422f-9a98-db94add0a3cb.png">
+
+
+In the image below, we see the output as a result of the code above. 
+
+<img width="174" alt="Screen Shot 2022-07-26 at 7 44 59 PM" src="https://user-images.githubusercontent.com/102444078/181149543-dff7f8ba-9cac-43c3-a5a6-d870a839553b.png">
+
+
+
 
 
 
 ## Summary
  
+
+
+
+
+
+
