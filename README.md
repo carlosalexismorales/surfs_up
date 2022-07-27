@@ -67,7 +67,8 @@ In the image below, we see the output as a result of the code above.
 
 
 
-
+3 key differences: 
+- 
 
 
 ## Summary
