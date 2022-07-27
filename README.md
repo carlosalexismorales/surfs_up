@@ -68,11 +68,29 @@ In the image below, we see the output as a result of the code above.
 
 
 3 key differences: 
-- 
+- June has a higher mean temp than December. This indicates that it is more likely to have warmer weather, however, December's mean isn't too far off. June has a mean temp of 75 and December has mean temp of 71. 
+- December has a lower min temp than June. This indicates that it is more likely to have cooler weather. The discrepancy between the min temps is higher than the max, meaning, that December is more inclined to be a lot colder than June. This could result is less business/profits since the weather will work against generating business
+- June has a higher max temp than December. This indicates that the weather is warmer during that time period than December, thus leading to more potiental business - assuming that warmer weather generates more revenue. 
 
 
 ## Summary
  
+Ultimately, the analysis has determined that the weather does not fluctuate too far off and is relatively consistent. In other words, the weather, specifically the temperature, in Oahu is suitable to open up shop. This is further backed by conducting additonal analysis. There were two more queries performed to capture more data to back up the claim. In the images below, we looked at the data for precipitation for both months. Precipiation was used as another factor to assist the argument. If it rained too much or too frequently, this can damper the amount of business generated. If we take a look at the images below, we see that both months show a low percentage of rainfall. This indicates that there is a very low chance that the shop will have to close frequently. The less amount of times the shop will have to close, the more time it can stay open for business.
+
+
+
+
+
+<img width="239" alt="Screen Shot 2022-07-26 at 8 31 30 PM" src="https://user-images.githubusercontent.com/102444078/181154728-ca3c2ecf-3e88-47f8-885e-1a63589788cb.png">
+
+
+
+
+
+
+
+<img width="281" alt="Screen Shot 2022-07-26 at 8 31 55 PM" src="https://user-images.githubusercontent.com/102444078/181154775-189710d2-bdca-4ee8-9e49-93dc4ab49d70.png">
+
 
 
 
