@@ -46,6 +46,8 @@ In the image below, we see the code that was written in order to retrieve the we
 <img width="1141" alt="Screen Shot 2022-07-26 at 7 44 12 PM" src="https://user-images.githubusercontent.com/102444078/181149443-355b71c7-a796-422f-9a98-db94add0a3cb.png">
 
 
+
+
 In the image below, we see the output as a result of the code above. 
 
 
